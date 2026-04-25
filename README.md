@@ -12,8 +12,8 @@ A modern and responsive landing page built using HTML, CSS, and JavaScript.
 ![Project Preview](preview.png)
 
 ## 🌐 Live Demo
-https://your-link.vercel.app
-
+[https://your-link.vercel.app
+](https://neurowrite-landing-page.vercel.app/)
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
