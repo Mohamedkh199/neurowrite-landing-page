@@ -9,7 +9,7 @@ A modern and responsive landing page built using HTML, CSS, and JavaScript.
 - Clean and Modern UI 💼
 
 ## 📸 Preview
-(Add screenshot here later)
+![Project Preview](preview.png)
 
 ## 🌐 Live Demo
 https://your-link.vercel.app
